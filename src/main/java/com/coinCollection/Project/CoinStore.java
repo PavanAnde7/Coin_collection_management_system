@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-import org.hibernate.Query;
+import org.hibernate.query.*;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
